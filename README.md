@@ -4,12 +4,14 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, <code>I am SAMOH</code>!
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/Samohtechs/Samohtechs/blob/main/Hi.gif" width="40px" />
   </a>
 </h1>
 
 
-<img align="right" width="150" height="200" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif"/>
+<img align="right" width="150" height="150" src="https://github.com/Samohtechs/Samohtechs/blob/main/cat_codes.gif"/>
+<br /><br />
+<img align="right" width="150" height="150" src="https://github.com/Samohtechs/Samohtechs/blob/main/code.PNG"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samohtechs&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
 
@@ -21,7 +23,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=samohtechs&theme=dark)    
 
   
-## Languages
+## 🛠 &nbsp;Tech Stack
 <img height="30" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" > <img height="30" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" > <img height="30"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" > <img height="30"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" >  <img height="30"  src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" alt="bootstrap" >  <img height="30"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" > <img height="30"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" > <img  src="https://img.shields.io/badge/dart-02589B?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" > 
 
 <img src="https://img.shields.io/badge/flutter-02589B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" > <img height="30"  src="https://img.shields.io/badge/PHP-0769AD?style=for-the-badge&logo=php&logoColor=white" alt="php" > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaScript"> <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" > <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactJS" > <img  src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=python&logoColor=white" alt="Python" > <img  src="https://img.shields.io/badge/java-6F4E37?style=for-the-badge&logo=java&logoColor=white" alt="Java" > 
@@ -30,18 +32,13 @@
 
 <a href = "https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a> <a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
 
-## Lets Connect
-<!-- INSTAGRAM -->
-<a href="https://www.instagram.com/samohtechs.infosec" target="_blank">
-<img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" height="4%" ; width="4%";margin-left:20px;margin-right:20px;></img></a> 
 
-<!-- TWITTER -->
-<a href="https://twitter.com/samohtechs" target="_blank" >
-<img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="5%" ; width="5%" ; margin-left:0px;></img></a>   
+## I'd Love To Connect and Make New Friends.
 
-<!-- LINKEDIN -->
-<a href="www.linkedin.com/in/aashima-wadhwa-0468771bb" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="4%" ; width="4%" ; margin-left:20px;></img></a>
+<a href="https://twitter.com/samohtechs"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/said-mohammed-samoh/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/><img src="https://img.shields.io/badge/instagram-E8572E?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/samohtechs"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"/></a>
+<a href="https://github.com/samohtechs"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=samohtechs" width=160px/>
@@ -52,5 +49,5 @@
 
   
 <!-- STICKER -->
-![image](https://user-images.githubusercontent.com/73706697/123554226-9df6cf80-d79c-11eb-90f9-fc1d2a28d8c4.png)
+![image](https://github.com/Samohtechs/Samohtechs/blob/main/sticker.png)
   
