@@ -33,7 +33,6 @@
 
 
 ## I'd Love To Connect and Make New Friends.
-
 <a href="https://www.twitter.com/samohtechs"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/said-mohammed-samoh/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/samohtechs.infosec"><img src="https://img.shields.io/badge/-Instagram-E8572E?style=flat-square&logo=instagram&logoColor=white"/></a>
@@ -41,12 +40,12 @@
 <a href="https://github.com/samohtechs"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 <!-- Profile Views -->
+#
 <img src="https://komarev.com/ghpvc/?username=samohtechs" width=160px/>
 
- 
 <!-- THANK YOU GIF -->
+#
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-
   
 <!-- STICKER -->
 ![image](https://github.com/Samohtechs/Samohtechs/blob/main/sticker.png)
