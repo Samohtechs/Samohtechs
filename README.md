@@ -24,7 +24,7 @@
 ## Languages
 <img height="30" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" > <img height="30" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" > <img height="30"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" > <img height="30"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" >  <img height="30"  src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" alt="bootstrap" >  <img height="30"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" > <img height="30"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" > <img  src="https://img.shields.io/badge/dart-02589B?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" > 
 
-<img src="https://img.shields.io/badge/flutter-02589B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" > <img height="30"  src="https://img.shields.io/badge/PHP-0769AD?style=for-the-badge&logo=php&logoColor=white" alt="php" > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaScript"><img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" ><img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactJS" > <img  src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=python&logoColor=white" alt="Python" > <img  src="https://img.shields.io/badge/java-6F4E37?style=for-the-badge&logo=java&logoColor=white" alt="Java" > 
+<img src="https://img.shields.io/badge/flutter-02589B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" > <img height="30"  src="https://img.shields.io/badge/PHP-0769AD?style=for-the-badge&logo=php&logoColor=white" alt="php" > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaScript"> <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" > <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactJS" > <img  src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=python&logoColor=white" alt="Python" > <img  src="https://img.shields.io/badge/java-6F4E37?style=for-the-badge&logo=java&logoColor=white" alt="Java" > 
 
 <img height="30"  src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">  <img height="30"  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">  <img height="30"  src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
 
@@ -43,10 +43,11 @@
 <a href="www.linkedin.com/in/aashima-wadhwa-0468771bb" target="_blank">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="4%" ; width="4%" ; margin-left:20px;></img></a>
 
-# Profile Views
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=samohtechs" width=160px/>
+
  
-# THANK YOU GIF
+<!-- THANK YOU GIF -->
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
   
