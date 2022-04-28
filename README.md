@@ -9,9 +9,8 @@
 </h1>
 
 
-<img align="right" width="150" height="170" src="https://github.com/Samohtechs/Samohtechs/blob/main/cat_codes.gif"/>  
-<br>
-<img align="right" width="150" height="150" src="https://github.com/Samohtechs/Samohtechs/blob/main/code.PNG"/>
+<!-- <img align="right" width="150" height="150" src="https://github.com/Samohtechs/Samohtechs/blob/main/cat_codes.gif"/>   -->
+<img align="bottom-right" width="250" height="250" src="https://github.com/Samohtechs/Samohtechs/blob/main/code.PNG"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samohtechs&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
 
@@ -36,7 +35,7 @@
 ## I'd Love To Connect and Make New Friends.
 
 <a href="https://twitter.com/samohtechs"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/said-mohammed-samoh/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/><img src="https://img.shields.io/badge/instagram-E8572E?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/said-mohammed-samoh/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/><img src="https://img.shields.io/badge/-Iinstagram-E8572E?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/samohtechs"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"/></a>
 <a href="https://github.com/samohtechs"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
