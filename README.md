@@ -34,8 +34,9 @@
 
 ## I'd Love To Connect and Make New Friends.
 
-<a href="https://twitter.com/samohtechs"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/said-mohammed-samoh/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/><img src="https://img.shields.io/badge/-Iinstagram-E8572E?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.twitter.com/samohtechs"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/said-mohammed-samoh/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/samohtechs.infosec"><img src="https://img.shields.io/badge/-Instagram-E8572E?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/samohtechs"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"/></a>
 <a href="https://github.com/samohtechs"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
