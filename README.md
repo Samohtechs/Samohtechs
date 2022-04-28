@@ -1,13 +1,7 @@
 <h1 align="center">
-  <a target="_blank">
-    
-  </a>
   𝐇𝐞𝐥𝐥𝐨, <code>I am SAMOH</code>!
-  <a target="_blank">
     <img src="https://github.com/Samohtechs/Samohtechs/blob/main/Hi.gif" width="40px" />
-  </a>
 </h1>
-
 
 <!-- <img align="right" width="150" height="150" src="https://github.com/Samohtechs/Samohtechs/blob/main/cat_codes.gif"/>   -->
 <img align="right" width="300" height="300" src="https://github.com/Samohtechs/Samohtechs/blob/main/code.PNG"/>
@@ -48,5 +42,6 @@
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
   
 <!-- STICKER -->
+#
 ![image](https://github.com/Samohtechs/Samohtechs/blob/main/sticker.png)
   
