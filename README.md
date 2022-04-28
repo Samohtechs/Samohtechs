@@ -2,14 +2,14 @@
   <a target="_blank">
     
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;code&gt;I am SAMOH&lt;/code&gt;!
+  𝐇𝐞𝐥𝐥𝐨, <code>I am SAMOH</code>!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
 
-<img align="right" width="250" height="300" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif"/>
+<img align="right" width="150" height="200" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samohtechs&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
 
