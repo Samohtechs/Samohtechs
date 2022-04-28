@@ -11,7 +11,7 @@
 
 <img align="right" width="150" height="150" src="https://github.com/Samohtechs/Samohtechs/blob/main/cat_codes.gif"/>  
 <br>
-<img align="right" width="150" height="150" src="https://github.com/Samohtechs/Samohtechs/blob/main/code.PNG"/>
+<img align="bottom" width="150" height="150" src="https://github.com/Samohtechs/Samohtechs/blob/main/code.PNG"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samohtechs&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
 
