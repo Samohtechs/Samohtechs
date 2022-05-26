@@ -26,7 +26,7 @@
 <a href = "https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a> <a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
 
 ## 🛠 &nbsp;Blue Team Stack
-<img height="30" src="https://img.shields.io/badge/wireshark-%2300599C.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" > <img height="30" src="https://img.shields.io/badge/virus%20total-%2300599C.svg?&style=for-the-badge&logo=virustotal&logoColor=white" alt="virus total" >
+<img height="30" src="https://img.shields.io/badge/wireshark-%2300599C.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" > <img height="30" src="https://img.shields.io/badge/virus%20total-%2300599C.svg?&style=for-the-badge&logo=virustotal&logoColor=white" alt="virus total" > <img src="https://img.shields.io/badge/-SNORT-purple?style=flat-square&logo=snort&logoColor=black" />
 
 ## I'd Love To Connect and Make New Friends.
 <a href="https://www.twitter.com/samohtechs"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
