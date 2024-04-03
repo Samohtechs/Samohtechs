@@ -15,6 +15,10 @@
 <!-- GITHUB STREAK -->
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=samohtechs&theme=dark)    
 
+<br>
+![https://cyberdefenders.org/p/cyb3rwolf](https://cyberdefenders.org/p/cyb3rwolf)
+<br>
+
   
 ## 🛠 &nbsp;Tech Stack
 <img height="30" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" > <img height="30" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" > <img height="30"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" > <img height="30"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" >  <img height="30"  src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" alt="bootstrap" > <img height="30"  src="https://img.shields.io/badge/-Tailwindcss-0B1424?style=flat-square&logo=Tailwindcss" alt="Tailwindcss" >  <img height="30"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" > <img height="30"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" > 
@@ -26,7 +30,7 @@
 <a href = "https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a> <a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
 
 ## 🛠 &nbsp;Blue Team Stack
-<img height="30" src="https://img.shields.io/badge/wireshark-%2300599C.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" > <img height="30" src="https://img.shields.io/badge/virus%20total-%2300599C.svg?&style=for-the-badge&logo=virustotal&logoColor=white" alt="virus total" > <img src="https://img.shields.io/badge/-SNORT-purple?style=flat-square&logo=snort&logoColor=black" /> <img src="https://cyberdefenders.org/p/cyb3rwolf?style=flat-square&logo=snort&logoColor=black" />
+<img height="30" src="https://img.shields.io/badge/wireshark-%2300599C.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" > <img height="30" src="https://img.shields.io/badge/virus%20total-%2300599C.svg?&style=for-the-badge&logo=virustotal&logoColor=white" alt="virus total" > <img src="https://img.shields.io/badge/-SNORT-purple?style=flat-square&logo=snort&logoColor=black" />
 
 ## I'd Love To Connect and Make New Friends.
 <a href="https://www.twitter.com/samohtechs"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
