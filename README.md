@@ -16,7 +16,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=samohtechs&theme=dark)    
 
 <br>
-  ![Cyberdefenders Badge](https://example.com/path/to/badge.png)
+  ![Cyberdefenders Badge](https://cyberdefenders.org/p/cyb3rwolf/badge)
 <br>
   
 ## 🛠 &nbsp;Tech Stack
