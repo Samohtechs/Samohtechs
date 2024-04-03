@@ -15,9 +15,7 @@
 <!-- GITHUB STREAK -->
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=samohtechs&theme=dark)    
 
-<br>
-  ![Cyberdefenders Badge](https://cyberdefenders.org/p/cyb3rwolf/badge)
-<br>
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/cyb3rwolf.png" width="300" />
   
 ## 🛠 &nbsp;Tech Stack
 <img height="30" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C" > <img height="30" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" > <img height="30"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" > <img height="30"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" >  <img height="30"  src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" alt="bootstrap" > <img height="30"  src="https://img.shields.io/badge/-Tailwindcss-0B1424?style=flat-square&logo=Tailwindcss" alt="Tailwindcss" >  <img height="30"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" > <img height="30"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" > 
