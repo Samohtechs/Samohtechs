@@ -16,7 +16,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=samohtechs&theme=dark)    
 
 <br>
-![https://cyberdefenders.org/p/cyb3rwolf](https://cyberdefenders.org/p/cyb3rwolf)
+<script src="https://cyberdefenders.org/p/cyb3rwolf/badge"></script>
 <br>
 
   
